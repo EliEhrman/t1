@@ -24,6 +24,7 @@ char *my_strcpy(char *t, const char *s)
    return p;
 }
 
+// 3rd comment
 
 int main(void)
 {
