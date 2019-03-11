@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 // author t2
-size_t my_strlen(char *s)
+// added const by t1
+size_t my_strlen(const char *s)
 {
    char *p = s;
 
