@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+// author t2
 size_t my_strlen(char *s)
 {
    char *p = s;
