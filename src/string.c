@@ -2,6 +2,7 @@
 
 // author t2
 // added const by t1
+// master comment
 size_t my_strlen(const char *s)
 {
    char *p = s;
