@@ -12,6 +12,7 @@ size_t my_strlen(const char *s)
    return (p - s);
 }
 
+// here's the second const
 char *my_strcpy(char *t, const char *s)
 {
    char *p = t;
